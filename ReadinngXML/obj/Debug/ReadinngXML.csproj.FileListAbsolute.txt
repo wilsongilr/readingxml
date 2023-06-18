@@ -1,0 +1,292 @@
+H:\ReadinngXML\ReadinngXML\bin\ReadinngXML.dll.config
+H:\ReadinngXML\ReadinngXML\bin\ReadinngXML.dll
+H:\ReadinngXML\ReadinngXML\bin\ReadinngXML.pdb
+H:\ReadinngXML\ReadinngXML\bin\roslyn\csc.exe
+H:\ReadinngXML\ReadinngXML\bin\roslyn\csc.exe.config
+H:\ReadinngXML\ReadinngXML\bin\roslyn\csc.rsp
+H:\ReadinngXML\ReadinngXML\bin\roslyn\csi.exe
+H:\ReadinngXML\ReadinngXML\bin\roslyn\csi.exe.config
+H:\ReadinngXML\ReadinngXML\bin\roslyn\csi.rsp
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.Managed.Core.targets
+H:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.AppContext.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Collections.Immutable.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Console.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Compression.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.FileSystem.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Pipes.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Reflection.Metadata.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.AccessControl.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Claims.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Principal.Windows.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.ValueTuple.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XmlDocument.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XPath.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\ReadinngXML\ReadinngXML\bin\roslyn\vbc.exe
+H:\ReadinngXML\ReadinngXML\bin\roslyn\vbc.exe.config
+H:\ReadinngXML\ReadinngXML\bin\roslyn\vbc.rsp
+H:\ReadinngXML\ReadinngXML\bin\roslyn\VBCSCompiler.exe
+H:\ReadinngXML\ReadinngXML\bin\roslyn\VBCSCompiler.exe.config
+H:\ReadinngXML\ReadinngXML\bin\Antlr3.Runtime.dll
+H:\ReadinngXML\ReadinngXML\bin\AspNet.ScriptManager.bootstrap.dll
+H:\ReadinngXML\ReadinngXML\bin\AspNet.ScriptManager.jQuery.dll
+H:\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\ReadinngXML\ReadinngXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ReadinngXML\ReadinngXML\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\ReadinngXML\ReadinngXML\bin\Microsoft.ScriptManager.WebForms.dll
+H:\ReadinngXML\ReadinngXML\bin\Microsoft.Web.Infrastructure.dll
+H:\ReadinngXML\ReadinngXML\bin\Newtonsoft.Json.dll
+H:\ReadinngXML\ReadinngXML\bin\System.Web.Optimization.dll
+H:\ReadinngXML\ReadinngXML\bin\WebGrease.dll
+H:\ReadinngXML\ReadinngXML\bin\System.Web.Optimization.xml
+H:\ReadinngXML\ReadinngXML\bin\Newtonsoft.Json.xml
+H:\ReadinngXML\ReadinngXML\bin\Antlr3.Runtime.pdb
+H:\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\ReadinngXML\ReadinngXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ReadinngXML\ReadinngXML\bin\es\System.Web.Optimization.resources.dll
+H:\ReadinngXML\ReadinngXML\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+H:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csprojAssemblyReference.cache
+H:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.CoreCompileInputs.cache
+H:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.CopyComplete
+H:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.dll
+H:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.pdb
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\ReadinngXML.dll.config
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\ReadinngXML.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\ReadinngXML.pdb
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\csc.exe
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\csc.exe.config
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\csc.rsp
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\csi.exe
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\csi.exe.config
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\csi.rsp
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.AppContext.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Console.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Compression.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Pipes.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.AccessControl.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Claims.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.ValueTuple.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XPath.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\vbc.exe
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\vbc.exe.config
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\vbc.rsp
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Antlr3.Runtime.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\AspNet.ScriptManager.jQuery.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Newtonsoft.Json.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\System.Web.Optimization.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\WebGrease.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\System.Web.Optimization.xml
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Newtonsoft.Json.xml
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Antlr3.Runtime.pdb
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\es\System.Web.Optimization.resources.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.AssemblyReference.cache
+D:\Proyectos C#\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.CopyComplete
+D:\Proyectos C#\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.dll
+D:\Proyectos C#\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.pdb
+G:\ReadinngXML\ReadinngXML\bin\ReadinngXML.dll.config
+G:\ReadinngXML\ReadinngXML\bin\ReadinngXML.dll
+G:\ReadinngXML\ReadinngXML\bin\ReadinngXML.pdb
+G:\ReadinngXML\ReadinngXML\bin\roslyn\csc.exe
+G:\ReadinngXML\ReadinngXML\bin\roslyn\csc.exe.config
+G:\ReadinngXML\ReadinngXML\bin\roslyn\csc.rsp
+G:\ReadinngXML\ReadinngXML\bin\roslyn\csi.exe
+G:\ReadinngXML\ReadinngXML\bin\roslyn\csi.exe.config
+G:\ReadinngXML\ReadinngXML\bin\roslyn\csi.rsp
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.AppContext.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Collections.Immutable.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Console.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Compression.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.FileSystem.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Pipes.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Reflection.Metadata.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.AccessControl.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Claims.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Principal.Windows.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.ValueTuple.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XPath.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ReadinngXML\ReadinngXML\bin\roslyn\vbc.exe
+G:\ReadinngXML\ReadinngXML\bin\roslyn\vbc.exe.config
+G:\ReadinngXML\ReadinngXML\bin\roslyn\vbc.rsp
+G:\ReadinngXML\ReadinngXML\bin\roslyn\VBCSCompiler.exe
+G:\ReadinngXML\ReadinngXML\bin\roslyn\VBCSCompiler.exe.config
+G:\ReadinngXML\ReadinngXML\bin\Antlr3.Runtime.dll
+G:\ReadinngXML\ReadinngXML\bin\AspNet.ScriptManager.bootstrap.dll
+G:\ReadinngXML\ReadinngXML\bin\AspNet.ScriptManager.jQuery.dll
+G:\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\ReadinngXML\ReadinngXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ReadinngXML\ReadinngXML\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\ReadinngXML\ReadinngXML\bin\Microsoft.ScriptManager.WebForms.dll
+G:\ReadinngXML\ReadinngXML\bin\Microsoft.Web.Infrastructure.dll
+G:\ReadinngXML\ReadinngXML\bin\Newtonsoft.Json.dll
+G:\ReadinngXML\ReadinngXML\bin\System.Web.Optimization.dll
+G:\ReadinngXML\ReadinngXML\bin\WebGrease.dll
+G:\ReadinngXML\ReadinngXML\bin\System.Web.Optimization.xml
+G:\ReadinngXML\ReadinngXML\bin\Newtonsoft.Json.xml
+G:\ReadinngXML\ReadinngXML\bin\Antlr3.Runtime.pdb
+G:\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ReadinngXML\ReadinngXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ReadinngXML\ReadinngXML\bin\es\System.Web.Optimization.resources.dll
+G:\ReadinngXML\ReadinngXML\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+G:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.CoreCompileInputs.cache
+G:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.CopyComplete
+G:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.dll
+G:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.pdb
+G:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.AssemblyReference.cache
+E:\ReadinngXML\ReadinngXML\bin\ReadinngXML.dll.config
+E:\ReadinngXML\ReadinngXML\bin\ReadinngXML.dll
+E:\ReadinngXML\ReadinngXML\bin\ReadinngXML.pdb
+E:\ReadinngXML\ReadinngXML\bin\roslyn\csc.exe
+E:\ReadinngXML\ReadinngXML\bin\roslyn\csc.exe.config
+E:\ReadinngXML\ReadinngXML\bin\roslyn\csc.rsp
+E:\ReadinngXML\ReadinngXML\bin\roslyn\csi.exe
+E:\ReadinngXML\ReadinngXML\bin\roslyn\csi.exe.config
+E:\ReadinngXML\ReadinngXML\bin\roslyn\csi.rsp
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ReadinngXML\ReadinngXML\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.AppContext.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Collections.Immutable.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Console.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Compression.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.FileSystem.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.IO.Pipes.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Reflection.Metadata.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.AccessControl.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Claims.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.ValueTuple.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XPath.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ReadinngXML\ReadinngXML\bin\roslyn\vbc.exe
+E:\ReadinngXML\ReadinngXML\bin\roslyn\vbc.exe.config
+E:\ReadinngXML\ReadinngXML\bin\roslyn\vbc.rsp
+E:\ReadinngXML\ReadinngXML\bin\roslyn\VBCSCompiler.exe
+E:\ReadinngXML\ReadinngXML\bin\roslyn\VBCSCompiler.exe.config
+E:\ReadinngXML\ReadinngXML\bin\Antlr3.Runtime.dll
+E:\ReadinngXML\ReadinngXML\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ReadinngXML\ReadinngXML\bin\AspNet.ScriptManager.jQuery.dll
+E:\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ReadinngXML\ReadinngXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ReadinngXML\ReadinngXML\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ReadinngXML\ReadinngXML\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ReadinngXML\ReadinngXML\bin\Microsoft.Web.Infrastructure.dll
+E:\ReadinngXML\ReadinngXML\bin\Newtonsoft.Json.dll
+E:\ReadinngXML\ReadinngXML\bin\System.Web.Optimization.dll
+E:\ReadinngXML\ReadinngXML\bin\WebGrease.dll
+E:\ReadinngXML\ReadinngXML\bin\System.Web.Optimization.xml
+E:\ReadinngXML\ReadinngXML\bin\Newtonsoft.Json.xml
+E:\ReadinngXML\ReadinngXML\bin\Antlr3.Runtime.pdb
+E:\ReadinngXML\ReadinngXML\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ReadinngXML\ReadinngXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ReadinngXML\ReadinngXML\bin\es\System.Web.Optimization.resources.dll
+E:\ReadinngXML\ReadinngXML\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.AssemblyReference.cache
+E:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.CoreCompileInputs.cache
+E:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.csproj.CopyComplete
+E:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.dll
+E:\ReadinngXML\ReadinngXML\obj\Debug\ReadinngXML.pdb
